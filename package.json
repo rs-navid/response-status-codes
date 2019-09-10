@@ -1,0 +1,28 @@
+{
+  "name": "response-status-codes",
+  "version": "1.0.0",
+  "description": "HTTP response status codes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rs-navid/response-status-codes.git"
+  },
+  "keywords": [
+    "HTTP",
+    "status",
+    "codes",
+    "HTTP",
+    "HTTP",
+    "statuses",
+    "http-statuses"
+  ],
+  "author": "NavidRS",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rs-navid/response-status-codes/issues"
+  },
+  "homepage": "https://github.com/rs-navid/response-status-codes#readme"
+}
