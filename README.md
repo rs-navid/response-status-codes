@@ -1,4 +1,4 @@
-# http-statuses:
+# response-status-codes:
 This is a list of Hypertext Transfer Protocol (HTTP) response status codes.Status codes are issued by a server in response to a client's request made to the server. It includes codes from IETF Request for Comments (RFCs), other specifications, and some additional codes used in some common applications of the Hypertext Transfer Protocol (HTTP).
 All HTTP response status codes are separated into five classes (or categories). The first digit of the status code defines the class of response. The last two digits do not have any class or categorization role. There are five values for the first digit:
 
